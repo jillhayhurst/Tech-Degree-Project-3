@@ -88,6 +88,10 @@
  .text-center {
      text-align: center;
 }
+
+textarea { 
+    resize: none; 
+}
  .top-hr {
      border-top: 4px solid #000;
      width: 100%;
