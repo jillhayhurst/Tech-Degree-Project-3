@@ -71,6 +71,11 @@
      text-align: center;
      margin: -1rem;
 }
+
+input[type="checkbox" i],
+input[type="radio" i]  {
+    color: #489ff9;
+}
  input#zip {
      max-width: 35%;
 }
