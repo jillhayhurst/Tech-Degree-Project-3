@@ -81,7 +81,7 @@ input[type="radio" i]  {
     color: #489ff9;
 }
  input#zip {
-     max-width: 35%;
+     max-width: 50%;
 }
  .light.small {
      color: #a4a2a2;
@@ -121,6 +121,9 @@ textarea {
          display: flex;
          flex-direction: row;
          margin: 0 0 16px 0;
+    }
+     input#zip {
+         max-width: 50%;
     }
      .top-hr {
          border-top: 4px solid #000;
