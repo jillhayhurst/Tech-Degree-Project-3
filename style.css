@@ -124,7 +124,7 @@ textarea {
          margin: 0 0 16px 0;
     }
      input#zip {
-         max-width: 50%;
+         max-width: 25%;
     }
      .top-hr {
          border-top: 4px solid #000;
