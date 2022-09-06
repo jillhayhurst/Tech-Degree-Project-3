@@ -37,7 +37,7 @@ form > button:hover {
  .form-group {
      flex-direction: column;
 }
-}
+
  .form-group .input-control {
      margin-top: 2px;
 }
